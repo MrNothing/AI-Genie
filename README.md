@@ -13,7 +13,12 @@ Simply describe your program and let the Genie do the rest!
 - Follow the instructions
 
 # Example
+An html5 pong
+![image](https://user-images.githubusercontent.com/5095297/230384287-7e5f894d-38fb-452b-bfed-660a6f4acd76.png)
+
+
 An html5 minecraft like:
-Result:
 
 ![image](https://user-images.githubusercontent.com/5095297/230383803-fea146c0-5cab-4d57-b2f8-532c7aff0a71.png)
+
+I'm missing some libs but surely it runs flawlessly :D
