@@ -3,9 +3,8 @@
 # AI-Genie
 Simply describe your program and let the Genie do the rest!
 
-# Installation
+# Setup
 - Clone the project
-- type `npm install`
 - type your OpenAI API key in config.json
 
 # How to use
