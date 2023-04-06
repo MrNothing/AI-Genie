@@ -12,7 +12,7 @@ Simply describe your program and let the Genie do the rest!
 - Run app.js: `node app.js`
 - Follow the instructions
 
-# Example
+# Examples
 An html5 pong:
 
 <img src="https://user-images.githubusercontent.com/5095297/230384287-7e5f894d-38fb-452b-bfed-660a6f4acd76.png" alt= "" width="150">
