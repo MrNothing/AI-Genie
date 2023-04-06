@@ -13,9 +13,9 @@ Simply describe your program and let the Genie do the rest!
 - Follow the instructions
 
 # Example
-An html5 pong
-![image](https://user-images.githubusercontent.com/5095297/230384287-7e5f894d-38fb-452b-bfed-660a6f4acd76.png)
+An html5 pong:
 
+<img src="[image name](https://user-images.githubusercontent.com/5095297/230384287-7e5f894d-38fb-452b-bfed-660a6f4acd76.png)" alt= "" width="value">
 
 An html5 minecraft like:
 
